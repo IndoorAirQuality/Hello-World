@@ -1,1 +1,1 @@
-# Learn how to make an IAQ Monitoring Applications
+# Learn how to make IAQ Monitoring Applications
